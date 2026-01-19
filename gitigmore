@@ -1,0 +1,13 @@
+# Ignorar arquivos de dados sensíveis
+userdata.db
+dados.csv
+dados_pacientes.csv
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de ambiente virtual (se tiver)
+.env
+venv/
+.vscode/
