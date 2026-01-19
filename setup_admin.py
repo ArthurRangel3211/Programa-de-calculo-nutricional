@@ -4,9 +4,9 @@ import email_utilis
 # ==============================================================================
 # DADOS DA DONA DO SISTEMA (EDITAR AQUI)
 # ==============================================================================
-NOME_REAL_ADMIN = "Isabella Melo"             # Nome da dona
-EMAIL_ADMIN = "isamelonutricao@gmail.com"     # E-mail que vai RECEBER a senha
-USUARIO_LOGIN = "IsaMeloNutri"                       # O login que ela vai usar
+NOME_REAL_ADMIN =            # Nome da dona
+EMAIL_ADMIN =     # E-mail que vai RECEBER a senha
+USUARIO_LOGIN =                        # O login que ela vai usar
 # ==============================================================================
 
 def criar_primeiro_admin():
